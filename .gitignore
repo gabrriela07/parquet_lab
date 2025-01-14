@@ -1,0 +1,10 @@
+*.csv*
+*.xslx*
+*.zip*
+*.parquet*
+*.xslb*
+*.duckdb*
+*.duckdb.wal*
+*.env*
+*.json*
+*__pycache__*
